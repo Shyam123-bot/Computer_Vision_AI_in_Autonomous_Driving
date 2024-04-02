@@ -35,15 +35,19 @@ The project utilizes the following datasets from Kaggle:
 - Validation accuracy: 97.78%
 
 - Loss and Accuracy curves
-  ![alt text](image.png)
+  ![image](https://github.com/Shyam123-bot/Computer_Vision_AI_in_Autonomous_Driving/assets/61462986/a54b5c42-653b-44c1-a4c1-43c512d5be81)
+
 
 - Sample Segmentation Results:
-  ![Sample Segmentation Result 1](/prediction/1.png)
-  ![Sample Segmentation Result 2](/prediction/2.png)
+  ![image](https://github.com/Shyam123-bot/Computer_Vision_AI_in_Autonomous_Driving/assets/61462986/2e216e8b-196b-440a-8a90-62a4b5376759)
+
+  ![image](https://github.com/Shyam123-bot/Computer_Vision_AI_in_Autonomous_Driving/assets/61462986/8a3c4f57-42b0-44bd-a039-eff8d42cc6f3)
+
 
 ### YOLOv3 Object Detection
 - Sample Object Detection Result:
-  ![Sample YOLOv3 Result](/prediction/yolov3.png)
+  ![image](https://github.com/Shyam123-bot/Computer_Vision_AI_in_Autonomous_Driving/assets/61462986/b3b4cf85-b089-4e2f-a44d-82673b9c04f9)
+
 
 
 The `code` folder contains model codes. Explore more results and the models' performance in the project's Jupyter Notebook.
